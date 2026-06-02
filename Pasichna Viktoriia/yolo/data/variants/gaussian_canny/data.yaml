@@ -1,0 +1,9 @@
+path: D:/bachelor-thesis/bachelor_work/yolo/data/variants/gaussian_canny
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: circle
+  1: square
+  2: triangle
