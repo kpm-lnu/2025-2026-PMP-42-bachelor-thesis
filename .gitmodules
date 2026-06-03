@@ -1,3 +1,6 @@
 [submodule "Modenko Anhelina/DelaunayForge"]
 	path = Modenko Anhelina/DelaunayForge
 	url = https://github.com/anshelino0606/DelaunayForge.git
+[submodule "Kisil Maria/FractalProject"]
+	path = Kisil Maria/FractalProject
+	url = https://github.com/MariaKisil/FractalProject.git
